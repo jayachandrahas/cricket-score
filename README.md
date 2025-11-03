@@ -4,3 +4,5 @@ teams score
 adding score
 <br>
 score is 100
+<br>
+batsman name sachin tendulkar
