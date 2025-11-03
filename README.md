@@ -6,3 +6,5 @@ adding score
 score is 100
 <br>
 batsman name sachin tendulkar
+<br>
+bowler name zaheer khan
